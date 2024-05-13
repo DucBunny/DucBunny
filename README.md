@@ -1,5 +1,7 @@
-### Hi there, I'm DucBunny👋
+### Hi there👋, I'm DucBunny
 ハノイ工科大学の学生
+
+📫 How to reach me: duchoccode@gmail.com
 <!--
 **DucBunny/DucBunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
